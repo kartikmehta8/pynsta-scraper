@@ -45,3 +45,5 @@ for tag in tag_list:
         print("Oops! Something went wrong.")
     
     number = number + len(images)
+
+driver.quit()
